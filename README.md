@@ -38,8 +38,7 @@ while  like_cnt < 100:
 python main.py
 ```
 ## Author
-
-周卓喬 (ZHOU ZHUOQIAO)
+ZHOU ZHUOQIAO
 
 zzq13237356748@gmail.com
 
