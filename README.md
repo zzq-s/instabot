@@ -40,8 +40,6 @@ python main.py
 ## Author
 ZHOU ZHUOQIAO
 
-zzq13237356748@gmail.com
-
 ## License
 
 MIT License
